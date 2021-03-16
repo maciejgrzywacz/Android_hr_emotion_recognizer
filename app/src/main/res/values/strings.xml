@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HREmotionRecognizerApp</string>
+    <string name="find_sensord">Find sensors</string>
+    <string name="display_hr_button_string">display HR</string>
+</resources>

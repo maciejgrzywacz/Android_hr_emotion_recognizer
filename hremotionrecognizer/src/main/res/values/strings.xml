@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sensor_chooser_dialog_text">Available sensors:</string>
+    <string name="cancel">Cancel</string>
+</resources>

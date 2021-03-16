@@ -1,0 +1,2 @@
+rootProject.name='HREmotionRecognizerApp'
+include ':app', ':hremotionrecognizer'
